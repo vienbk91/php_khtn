@@ -1,0 +1,6 @@
+
+
+
++ Form trong PHP 
+Trong PHP thì form sẽ gửi dữ liệu lên PHP bằng phương thức POST/GET
+Lấy giá trị trong cặp thẻ input thông qua name
